@@ -1,0 +1,30 @@
+﻿@model IEnumerable<Web_Api_Spotify.Models.Release>
+
+@{
+    ViewData["Title"] = "Spotify";
+}
+
+<div class="row">
+    @if(Model.Count() > 0)
+    {
+        <div class="d-flex flex-wrap justify-content-around">
+            @foreach (var item in Model)
+            {
+                <div class="card m-2" style="width: 18rem;">
+                    <img src="@Html.DisplayFor(modelItem => item.ImageUrl)" class="card-img-top" alt="Release picture">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.DisplayFor(modelItem => item.Artists)</h5>
+                        <h6 class="card-subtitle mb-2 text-muted">@Html.DisplayFor(modelItem => item.Name)</h6>
+                        <p class="card-text">@Html.DisplayFor(modelItem => item.Date)</p>
+                        <a href="@Html.DisplayFor(modelItem => item.Link)" class="btn btn-primary" target="_blank">Lyt</a>
+                    </div>
+                </div>
+            }
+        </div>
+
+    }
+    else
+    {
+        <p>No data available</p>
+    }
+</div>

@@ -1,0 +1,30 @@
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\appsettings.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\Web Api Spotify.staticwebassets.runtime.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\Web Api Spotify.exe
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\Web Api Spotify.deps.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\Web Api Spotify.runtimeconfig.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\Web Api Spotify.dll
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\bin\Debug\net8.0\Web Api Spotify.pdb
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.AssemblyInfoInputs.cache
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.AssemblyInfo.cs
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.csproj.CoreCompileInputs.cache
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.RazorAssemblyInfo.cache
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.RazorAssemblyInfo.cs
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\staticwebassets\msbuild.Web Api Spotify.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\staticwebassets\msbuild.build.Web Api Spotify.props
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web Api Spotify.props
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web Api Spotify.props
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\scopedcss\bundle\Web Api Spotify.styles.css
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\scopedcss\projectbundle\Web Api Spotify.bundle.scp.css
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.dll
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\refint\Web Api Spotify.dll
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.pdb
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\Web Api Spotify.genruntimeconfig.cache
+C:\Users\msoen\Documents\Michael\Projekter\Web Api Spotify\Web Api Spotify\obj\Debug\net8.0\ref\Web Api Spotify.dll
