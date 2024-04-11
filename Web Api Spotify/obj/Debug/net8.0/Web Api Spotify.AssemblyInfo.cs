@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Web Api Spotify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+944459c76170858d17126a8fdb52795e57ffd33a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39ff5bf22582a527ca8d42a8d237446b73a5d997")]
 [assembly: System.Reflection.AssemblyProductAttribute("Web Api Spotify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Web Api Spotify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
